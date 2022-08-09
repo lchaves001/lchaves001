@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lchaves001
-- 👀 I’m interested in Robotics, I.A., Computers and IoT
+- 👀 I’m interested in Robotics, Artificial Inteligence/Machine Learning, Embedded boards and IoT.
 - 🌱 I’m currently learning about Deep Learning
 - 📫 Thank you.
 
